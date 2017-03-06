@@ -1,0 +1,12 @@
+truncate table OSOBA;
+truncate table CLAN;
+truncate table UPOSLENIK;
+truncate table CLANSAETFA;
+truncate table STUDENT;
+truncate table MASTERSTUDENT;
+truncate table PROFESOR;
+truncate table KNJIGA;
+truncate table NAUCNIRAD;
+truncate table STRIP;
+truncate table ELEMENTLISTEZELJA;
+truncate table TRANSKACIJE

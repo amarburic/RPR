@@ -1,0 +1,14 @@
+c:\users\amar.b\documents\visual studio 2015\Projects\DatumBiblioteka\DatumBiblioteka\bin\Debug\DatumBiblioteka.dll
+c:\users\amar.b\documents\visual studio 2015\Projects\DatumBiblioteka\DatumBiblioteka\bin\Debug\DatumBiblioteka.pdb
+c:\users\amar.b\documents\visual studio 2015\Projects\DatumBiblioteka\DatumBiblioteka\obj\Debug\DatumBiblioteka.csprojResolveAssemblyReference.cache
+c:\users\amar.b\documents\visual studio 2015\Projects\DatumBiblioteka\DatumBiblioteka\obj\Debug\DatumBiblioteka.dll
+c:\users\amar.b\documents\visual studio 2015\Projects\DatumBiblioteka\DatumBiblioteka\obj\Debug\DatumBiblioteka.pdb
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\DatumBiblioteka\DatumBiblioteka\bin\Debug\DatumBiblioteka.dll
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\DatumBiblioteka\DatumBiblioteka\bin\Debug\DatumBiblioteka.pdb
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\DatumBiblioteka\DatumBiblioteka\obj\Debug\DatumBiblioteka.csprojResolveAssemblyReference.cache
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\DatumBiblioteka\DatumBiblioteka\obj\Debug\DatumBiblioteka.dll
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\DatumBiblioteka\DatumBiblioteka\obj\Debug\DatumBiblioteka.pdb
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\DatumBiblioteka\DatumBiblioteka\bin\Debug\DatumBiblioteka.dll
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\DatumBiblioteka\DatumBiblioteka\bin\Debug\DatumBiblioteka.pdb
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\DatumBiblioteka\DatumBiblioteka\obj\Debug\DatumBiblioteka.dll
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\DatumBiblioteka\DatumBiblioteka\obj\Debug\DatumBiblioteka.pdb

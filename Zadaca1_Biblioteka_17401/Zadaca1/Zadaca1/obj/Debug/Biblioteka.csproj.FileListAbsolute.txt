@@ -1,0 +1,166 @@
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\DatumBiblioteka.pdb
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.csprojResolveAssemblyReference.cache
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.csproj.GenerateResource.Cache
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Login.resources
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Biblioteka.exe.config
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Biblioteka.exe
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Biblioteka.pdb
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.exe
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.pdb
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.OsobaKontrola.resources
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.ClanKontrola.resources
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.SlikaKontrola.resources
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.ClanForma.resources
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.AdminForma.resources
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Pretraga.resources
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Properties.Resources.resources
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.UposlenikKontrola.resources
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RegistracijaClanaForma.resources
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RegistracijaUposlenikaForma.resources
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.KnjigaKontrola.resources
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RegistracijeKnjigeForma.resources
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.UposlenikForma.resources
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.EvidencijaKnjigeForma.resources
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.EvidencijaClanaForma.resources
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.OstaliUposleniciForma.resources
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.StanjeForma.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Biblioteka.exe.config
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.exe
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.pdb
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.csprojResolveAssemblyReference.cache
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.AdminForma.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.ClanForma.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.ClanKontrola.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.EvidencijaKnjigeForma.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.EvidencijaClanaForma.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.KnjigaKontrola.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Login.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.OsobaKontrola.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.OstaliUposleniciForma.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Pretraga.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Properties.Resources.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RegistracijaClanaForma.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RegistracijaUposlenikaForma.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RegistracijeKnjigeForma.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.SlikaKontrola.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.StanjeForma.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.UposlenikForma.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.UposlenikKontrola.resources
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.csproj.GenerateResource.Cache
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Biblioteka.exe
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Biblioteka.pdb
+C:\Users\Amar.B\Desktop\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\DatumBiblioteka.pdb
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Biblioteka.exe.config
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.exe
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.pdb
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Biblioteka.exe
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Biblioteka.pdb
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\DatumBiblioteka.pdb
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.csprojResolveAssemblyReference.cache
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.AdminForma.resources
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.ClanForma.resources
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.ClanKontrola.resources
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.EvidencijaKnjigeForma.resources
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.EvidencijaClanaForma.resources
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.KnjigaKontrola.resources
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Login.resources
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.OsobaKontrola.resources
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.OstaliUposleniciForma.resources
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Pretraga.resources
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Properties.Resources.resources
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RegistracijaClanaForma.resources
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RegistracijaUposlenikaForma.resources
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RegistracijeKnjigeForma.resources
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.SlikaKontrola.resources
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.StanjeForma.resources
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.UposlenikForma.resources
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.UposlenikKontrola.resources
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.csproj.GenerateResource.Cache
+G:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.DeserijalizacijaForma.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Biblioteka.exe.config
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Biblioteka.exe
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Biblioteka.pdb
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\DatumBiblioteka.pdb
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.csprojResolveAssemblyReference.cache
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.AdminForma.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.ClanForma.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.ClanKontrola.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.DeserijalizacijaForma.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.EvidencijaKnjigeForma.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.EvidencijaClanaForma.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.KnjigaKontrola.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Login.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.OsobaKontrola.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.OstaliUposleniciForma.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Pretraga.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Properties.Resources.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RegistracijaClanaForma.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RegistracijaUposlenikaForma.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RegistracijeKnjigeForma.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.SlikaKontrola.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.StanjeForma.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.UposlenikForma.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.UposlenikKontrola.resources
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.csproj.GenerateResource.Cache
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.exe
+D:\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.pdb
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Biblioteka.exe.config
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.exe
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.pdb
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Biblioteka.exe
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Biblioteka.pdb
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\DatumBiblioteka.pdb
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.csprojResolveAssemblyReference.cache
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.AdminForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.ClanForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.ClanKontrola.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.DeserijalizacijaForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.EvidencijaKnjigeForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.EvidencijaClanaForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.KnjigaKontrola.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Login.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.OsobaKontrola.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.OstaliUposleniciForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Pretraga.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Properties.Resources.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RegistracijaClanaForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RegistracijaUposlenikaForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RegistracijeKnjigeForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.SlikaKontrola.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.StanjeForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.UposlenikForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.UposlenikKontrola.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.csproj.GenerateResource.Cache
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RezultatQuerya.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.UcitavanjeForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Analiza.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Biblioteka.exe.config
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.exe
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.pdb
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Biblioteka.exe
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Biblioteka.pdb
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\DatumBiblioteka.pdb
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.csprojResolveAssemblyReference.cache
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.AdminForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Analiza.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.ClanForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.ClanKontrola.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.DeserijalizacijaForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.EvidencijaKnjigeForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.EvidencijaClanaForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.KnjigaKontrola.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Login.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.OsobaKontrola.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.OstaliUposleniciForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Pretraga.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.Properties.Resources.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RegistracijaClanaForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RegistracijaUposlenikaForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RegistracijeKnjigeForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.RezultatQuerya.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.SlikaKontrola.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.StanjeForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.UcitavanjeForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.UposlenikForma.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\NSBiblioteka.UposlenikKontrola.resources
+C:\Users\Amar.B\Desktop\Rpr\Zadaca 3\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Biblioteka.csproj.GenerateResource.Cache

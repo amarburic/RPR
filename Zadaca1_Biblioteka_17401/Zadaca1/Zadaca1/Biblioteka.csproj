@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{787A149C-E68A-4F91-855E-EFEB6BD69808}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NSBiblioteka</RootNamespace>
+    <AssemblyName>Biblioteka</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DatumBiblioteka, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DatumBiblioteka.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForma.Designer.cs">
+      <DependentUpon>AdminForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Analiza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Analiza.Designer.cs">
+      <DependentUpon>Analiza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BazaPodataka.cs" />
+    <Compile Include="Biblioteka.Analiza.cs" />
+    <Compile Include="Biblioteka.cs" />
+    <Compile Include="Biblioteka.Serijalizacija.cs" />
+    <Compile Include="Clan.cs" />
+    <Compile Include="ClanForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClanForma.Designer.cs">
+      <DependentUpon>ClanForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClanKontrola.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ClanKontrola.Designer.cs">
+      <DependentUpon>ClanKontrola.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClanSaEtfa.cs" />
+    <Compile Include="DeserijalizacijaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeserijalizacijaForma.Designer.cs">
+      <DependentUpon>DeserijalizacijaForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ElementListeZelja.cs" />
+    <Compile Include="EvidencijaKnjigeForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EvidencijaKnjigeForma.Designer.cs">
+      <DependentUpon>EvidencijaKnjigeForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EvidencijaClanaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EvidencijaClanaForma.Designer.cs">
+      <DependentUpon>EvidencijaClanaForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hesiranje.cs" />
+    <Compile Include="INaucniRad.cs" />
+    <Compile Include="IPretrazivObjekat.cs" />
+    <Compile Include="ISBN.cs" />
+    <Compile Include="Knjiga.cs" />
+    <Compile Include="KnjigaKontrola.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KnjigaKontrola.Designer.cs">
+      <DependentUpon>KnjigaKontrola.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterStudent.cs" />
+    <Compile Include="Meni.cs" />
+    <Compile Include="NaucniRad.cs" />
+    <Compile Include="Osoba.cs" />
+    <Compile Include="OsobaKontrola.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OsobaKontrola.Designer.cs">
+      <DependentUpon>OsobaKontrola.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OstaliUposleniciForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OstaliUposleniciForma.Designer.cs">
+      <DependentUpon>OstaliUposleniciForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pair.cs" />
+    <Compile Include="Pretraga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pretraga.Designer.cs">
+      <DependentUpon>Pretraga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RegistracijaClanaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistracijaClanaForma.Designer.cs">
+      <DependentUpon>RegistracijaClanaForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistracijaUposlenikaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistracijaUposlenikaForma.Designer.cs">
+      <DependentUpon>RegistracijaUposlenikaForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistracijeKnjigeForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistracijeKnjigeForma.Designer.cs">
+      <DependentUpon>RegistracijeKnjigeForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RezultatQuerya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RezultatQuerya.Designer.cs">
+      <DependentUpon>RezultatQuerya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SlikaKontrola.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SlikaKontrola.Designer.cs">
+      <DependentUpon>SlikaKontrola.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StanjeForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StanjeForma.Designer.cs">
+      <DependentUpon>StanjeForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Strip.cs" />
+    <Compile Include="Student.cs" />
+    <Compile Include="Transakcija.cs" />
+    <Compile Include="Profesor.cs" />
+    <Compile Include="UcitavanjeForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UcitavanjeForma.Designer.cs">
+      <DependentUpon>UcitavanjeForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uposlenik.cs" />
+    <Compile Include="UposlenikForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UposlenikForma.Designer.cs">
+      <DependentUpon>UposlenikForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UposlenikKontrola.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UposlenikKontrola.Designer.cs">
+      <DependentUpon>UposlenikKontrola.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AdminForma.resx">
+      <DependentUpon>AdminForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Analiza.resx">
+      <DependentUpon>Analiza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClanForma.resx">
+      <DependentUpon>ClanForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClanKontrola.resx">
+      <DependentUpon>ClanKontrola.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeserijalizacijaForma.resx">
+      <DependentUpon>DeserijalizacijaForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EvidencijaKnjigeForma.resx">
+      <DependentUpon>EvidencijaKnjigeForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EvidencijaClanaForma.resx">
+      <DependentUpon>EvidencijaClanaForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KnjigaKontrola.resx">
+      <DependentUpon>KnjigaKontrola.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OsobaKontrola.resx">
+      <DependentUpon>OsobaKontrola.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OstaliUposleniciForma.resx">
+      <DependentUpon>OstaliUposleniciForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pretraga.resx">
+      <DependentUpon>Pretraga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistracijaClanaForma.resx">
+      <DependentUpon>RegistracijaClanaForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistracijaUposlenikaForma.resx">
+      <DependentUpon>RegistracijaUposlenikaForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistracijeKnjigeForma.resx">
+      <DependentUpon>RegistracijeKnjigeForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RezultatQuerya.resx">
+      <DependentUpon>RezultatQuerya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SlikaKontrola.resx">
+      <DependentUpon>SlikaKontrola.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StanjeForma.resx">
+      <DependentUpon>StanjeForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcitavanjeForma.resx">
+      <DependentUpon>UcitavanjeForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UposlenikForma.resx">
+      <DependentUpon>UposlenikForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UposlenikKontrola.resx">
+      <DependentUpon>UposlenikKontrola.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oman.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\neira.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rasim.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

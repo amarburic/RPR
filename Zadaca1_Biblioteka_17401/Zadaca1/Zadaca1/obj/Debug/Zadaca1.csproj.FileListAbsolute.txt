@@ -1,0 +1,10 @@
+c:\users\amar.b\documents\visual studio 2015\Projects\Zadaca1\Zadaca1\bin\Debug\Zadaca1.exe.config
+C:\Users\Amar.B\documents\visual studio 2015\Projects\Zadaca1\Zadaca1\obj\Debug\Zadaca1.csprojResolveAssemblyReference.cache
+C:\Users\Amar.B\documents\visual studio 2015\Projects\Zadaca1\Zadaca1\bin\Debug\Zadaca1.exe
+C:\Users\Amar.B\documents\visual studio 2015\Projects\Zadaca1\Zadaca1\bin\Debug\Zadaca1.pdb
+C:\Users\Amar.B\documents\visual studio 2015\Projects\Zadaca1\Zadaca1\obj\Debug\Zadaca1.exe
+C:\Users\Amar.B\documents\visual studio 2015\Projects\Zadaca1\Zadaca1\obj\Debug\Zadaca1.pdb
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1\Zadaca1\bin\Debug\DatumBiblioteka.pdb
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\bin\Debug\Zadaca1.exe.config
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Zadaca1.exe
+C:\Users\Amar.B\Documents\Visual Studio 2015\Projects\Zadaca1_Biblioteka_17401\Zadaca1\Zadaca1\obj\Debug\Zadaca1.pdb

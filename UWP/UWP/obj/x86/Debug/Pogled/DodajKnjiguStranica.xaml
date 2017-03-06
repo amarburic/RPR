@@ -1,0 +1,146 @@
+﻿<Page
+    x:Class="UWP.Pogled.DodajKnjiguStranica"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UWP.Pogled"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid
+        Style="{StaticResource MrezaStranice}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+        <TextBlock
+            Grid.Row="0"
+            Style="{StaticResource TekstNaslovaStranice}"
+            Text="Dodaj knjigu"/>
+        <SplitView x:ConnectionId='1'
+            Grid.Row="1"
+            Style="{StaticResource PodlogaStranice}"
+            x:Name="podlogaStranice">
+            <SplitView.Pane>
+                <StackPanel
+                    Style="{StaticResource PodlogaIzbornika}">
+                    <StackPanel
+                        Style="{StaticResource PodlogaStavkeIzbornika}">
+                        <Button x:ConnectionId='3'
+                            Content="&#xE700;"
+                                                          
+                            Style="{StaticResource DugmeStavkeIzbornika}"/>
+                    </StackPanel>
+                    <StackPanel
+                        Style="{StaticResource PodlogaStavkeIzbornika}">
+                        <Button x:ConnectionId='2'
+                            Content="&#xE72B;"
+                                                         
+                            Style="{StaticResource DugmeStavkeIzbornika}"/>
+                        <TextBlock
+                            Style="{StaticResource TekstStavkeIzbornika}"
+                            Text="Nazad"/>
+                    </StackPanel>
+                </StackPanel>
+            </SplitView.Pane>
+            <SplitView.Content>
+                <StackPanel
+                    Style="{StaticResource PodlogaSadrzaja}">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="40"/>
+                            <RowDefinition Height="160"/>
+                            <RowDefinition Height="40"/>
+                            <RowDefinition Height="40"/>
+                            <RowDefinition Height="40"/>
+                            <RowDefinition Height="40"/>
+                            <RowDefinition Height="40"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="140"/>
+                            <ColumnDefinition Width="200"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock
+                            Grid.Row="0"
+                            Grid.Column="0"
+                            Style="{StaticResource TekstStranice}"
+                            Text="Naslov:"/>
+                        <TextBox x:ConnectionId='4'
+                            Grid.Row="0"
+                            Grid.Column="1"
+                            PlaceholderText="Unesite naslov"
+                            Style="{StaticResource OkvirTeksta}"
+                            x:Name="kontrolaNaslov"/>
+                        <TextBlock
+                            Grid.Row="1"
+                            Grid.Column="0"
+                            Style="{StaticResource TekstStranice}"
+                            Text="Autor(i):"/>
+                        <TextBox x:ConnectionId='5'
+                            Grid.Row="1"
+                            Grid.Column="1"
+                            Height= "150"
+                            PlaceholderText="Unesite autora/e"
+                            Style="{StaticResource OkvirTeksta}"
+                            x:Name="kontrolaAutori"/>
+                        <TextBlock
+                            Grid.Row="2"
+                            Grid.Column="0"
+                            Style="{StaticResource TekstStranice}"
+                            Text="ISBN:"/>
+                        <TextBox x:ConnectionId='6'
+                            Grid.Row="2"
+                            Grid.Column="1"
+                            PlaceholderText="Unesite ISBN"
+                            Style="{StaticResource OkvirTeksta}"
+                            x:Name="kontrolaISBN"/>
+                        <TextBlock
+                            Grid.Row="3"
+                            Grid.Column="0"
+                            Style="{StaticResource TekstStranice}"
+                            Text="Izdavač:"/>
+                        <TextBox x:ConnectionId='7'
+                            Grid.Row="3"
+                            Grid.Column="1"
+                            
+                            PlaceholderText="Unesite izdavača"
+                            Style="{StaticResource OkvirTeksta}"
+                            x:Name="kontrolaIzdavac"/>
+                        <TextBlock
+                            Grid.Row="4"
+                            Grid.Column="0"
+                            Style="{StaticResource TekstStranice}"
+                            Text="Godina izdanja:"/>
+                        <CalendarDatePicker x:ConnectionId='8'
+                            DateFormat="{}{year.full}"
+                            Grid.Row="4"
+                            Grid.Column="1"
+                            PlaceholderText="Izaberite godinu izdanja"
+                            Style="{StaticResource OkvirDatuma}"
+                            x:Name="kontrolaGodinaIzdanja"/>
+                        <Button x:ConnectionId='9'
+                                                 
+                            Content="Poništi"
+                            Grid.Row="5"
+                            Grid.Column="1"
+                            Style="{StaticResource DugmeStranice}"/>
+                        <Button x:ConnectionId='10'
+                                               
+                            Content="Dodaj"
+                            Grid.Row="6"
+                            Grid.Column="1"
+                            Style="{StaticResource DugmeStranice}"/>
+                    </Grid>
+                </StackPanel>
+            </SplitView.Content>
+        </SplitView>
+        <TextBlock
+            Grid.Row="2"
+            Style="{StaticResource TekstStranice}"
+            Text="Popunite podatke o uposleniku."/>
+    </Grid>
+</Page>
+
