@@ -10,37 +10,37 @@ Clan:
 user:aburic1 pass:12345
 
 1)
-Potpuna perzistencija podataka je omoguæena povezivanjem sa OBP bazom. Komunikacija sa bazom radi na naèin da se pri pokretanju
-aplikacije u odvojenom threadu otvori konekcija sa bazom i uèitaju svi podaci. Na kraju izvršavanja aplikacije
-ponovo se otvori konekcija i svi podaci se spase. Ukoliko doğe do exceptiona pri konekciji
-korisnik se obavijesti i aplikacija nastaivi offline modeu sa hardkodiranim vrijednostima. 
+Potpuna perzistencija podataka je omoguÄ‡ena povezivanjem sa OBP bazom. Komunikacija sa bazom radi na naÄin da se pri pokretanju
+aplikacije u odvojenom threadu otvori konekcija sa bazom i uÄitaju svi podaci. Na kraju izvrÅ¡avanja aplikacije
+ponovo se otvori konekcija i svi podaci se spase. Ukoliko doÄ‘e do exceptiona pri konekciji
+korisnik se obavijesti i aplikacija nastavi u offline modeu sa hardkodiranim vrijednostima. 
 Sav kod za komunikaciju sa bazom se nalazi u klasi BazaPodataka.
-U zipu je priloen i kod za kreiranje baze kao i ERD. 
+U zipu je priloÅ¾en i kod za kreiranje baze kao i ERD. 
 
 2)
 XML i Binarna serijalizacija i deserijalizacija su implementovane u administrator formi. GUI kod za serijalizaciju se nalazi
 u klasi AdminForma a background kod u klasi Biblioteka.Serijalizacija.
 
 3)
-Animirani logo je kreiran uspomoæ Thread.Timera, za što se kod nalazi u klasi LoginForma. 
-Serijalizacija i deserijalizacija se izvršavaju pomoæu taskova i async/await keyworda. Kod je u klasi AdminForma.
-Komunikacija sa bazom pri uèitavanju i spašavanju se izvršava u odvojenom tasku. Kod je u LoginFormi(u konstruktoru i 
-u FormClosing metodi). TPL biblioteka je iskorištena da bi se paralelizovale foreach petlje u metodama za analizu
+Animirani logo je kreiran uspomoÄ‡ Thread.Timera, za Å¡to se kod nalazi u klasi LoginForma. 
+Serijalizacija i deserijalizacija se izvrÅ¡avaju pomoÄ‡u taskova i async/await keyworda. Kod je u klasi AdminForma.
+Komunikacija sa bazom pri uÄitavanju i spaÅ¡avanju se izvrÅ¡ava u odvojenom tasku. Kod je u LoginFormi(u konstruktoru i 
+u FormClosing metodi). TPL biblioteka je iskoriÅ¡tena da bi se paralelizovale foreach petlje u metodama za analizu
 (Biblioteka.Analiza, metode najcitanijiAutori() i najcitanijeKnjige())
 
 4)
-Napravljena je simplificirana verzija administratorske forme u UWP aplikaciji koja omoguæava kreiranje uposlenika i 
+Napravljena je simplificirana verzija administratorske forme u UWP aplikaciji koja omoguÄ‡ava kreiranje uposlenika i 
 knjiga. 
 
-Popravljeno u odnosu na prošlu zadaæu:
-Dodani grafovi za analitièke funkciju(klasa Analiza, prikazuju se otvaranjem profila nekog uposlenika, otvaranjem taba
-za analizu i pritiskom na odgovarajuæe dugme)
+Popravljeno u odnosu na proÅ¡lu zadaÄ‡u:
+Dodani grafovi za analitiÄke funkciju(klasa Analiza, prikazuju se otvaranjem profila nekog uposlenika, otvaranjem taba
+za analizu i pritiskom na odgovarajuÄ‡e dugme)
 
 Nedostaci aplikacije:
-Kreiranje novih èlanova/knjiga/uposlenika moe nekada praviti probleme sa error provajderima. Objekat se 
-ne moe kreirati ako je neko polje pogrešno, ali se nekada error provajder moe prikazati iako su svi
-podaci ispravno uneseni(objekat æe se tada kreirati, ali æe error provajderi ipak prikazati). Ovo je problem 
-u polju za unošenje isbn-a.
+Kreiranje novih Älanova/knjiga/uposlenika moÅ¾e nekada praviti probleme sa error provajderima. Objekat se 
+ne moÅ¾e kreirati ako je neko polje pogreÅ¡no, ali se nekada error provajder moÅ¾e prikazati iako su svi
+podaci ispravno uneseni(objekat Ä‡e se tada kreirati, ali Ä‡e error provajderi ipak prikazati). Ovo je problem 
+u polju za unoÅ¡enje isbn-a.
 
 
 
